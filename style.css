@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head_img{
+    width: 100%;
+}
+.getting_started{
+    padding: 80px 64px 80px 64px;
+}
+h1{
+    font-size: 36px;
+}
+.text_started{
+    font-size: 24px;
+}
